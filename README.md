@@ -1,3 +1,4 @@
 # AeaED
-Unas palabras iniciales
-Unas palabras añadidas despues de la creacion.
+Un programa que realiza todas las actividades ques e realizarian en una aplicacion de una libreria.
+Otro programa que sirve para realizar todas las pruebas correspondientes.
+Un saludo.
